@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  short_desc: MyText
+  image_url: MyString
+  youtube_video_id: MyString
+  date_of_event: 2019-07-20
+  place_of_event: MyString
+  published_at: 2019-07-20 21:58:00
+  order: 1
+  is_published: false
+  artist: one
+  author: one
+
+two:
+  title: MyString
+  short_desc: MyText
+  image_url: MyString
+  youtube_video_id: MyString
+  date_of_event: 2019-07-20
+  place_of_event: MyString
+  published_at: 2019-07-20 21:58:00
+  order: 1
+  is_published: false
+  artist: two
+  author: two
