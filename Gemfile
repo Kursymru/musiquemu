@@ -34,6 +34,9 @@ gem "bootstrap-sass", ">= 3.4.1"
 gem 'autoprefixer-rails'
 gem "bootstrap-wysihtml5-rails"
 gem 'grape', '~> 1.2', '>= 1.2.4'
+gem 'grape-entity'
+gem 'kaminari'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
